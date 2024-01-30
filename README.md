@@ -1,2 +1,1 @@
-# LeetCode
-Ambitious
+# Ambitious
